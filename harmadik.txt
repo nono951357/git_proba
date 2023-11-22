@@ -1,1 +1,2 @@
 Ez a harmadik txt file.
+Ez pedig a második sor.
