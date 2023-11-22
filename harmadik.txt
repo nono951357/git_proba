@@ -1,2 +1,3 @@
 Ez a harmadik txt file.
-Ez pedig a második sor.
+
+A másodok egy üres sor.
